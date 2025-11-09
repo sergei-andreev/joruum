@@ -3,5 +3,19 @@
   "editor.formatOnSave": true,
   "editor.codeActionsOnSave": {
     "source.action.useSortedProperties.biome": "explicit"
+  },
+  "eslint.enable": false,
+  "prettier.enable": false,
+  "[typescript]": {
+    "editor.defaultFormatter": "biomejs.biome"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "biomejs.biome"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "biomejs.biome"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "biomejs.biome"
   }
 }
